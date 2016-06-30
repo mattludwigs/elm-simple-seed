@@ -1,6 +1,7 @@
 # To Set up:
 
 `npm install`
+
 `elm-package install`
 
 # To run:
